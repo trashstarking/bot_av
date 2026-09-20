@@ -1,5 +1,5 @@
 # ==============================================================================
-# requirements.txt - классификатор кук авито precision at recall 70%
+# requirements.txt
 # python version: 3.12.4
 # os platform:    Windows-10-10.0.19045-SP0
 # processor:      Intel64 Family 6 Model 158 Stepping 9, GenuineIntel
