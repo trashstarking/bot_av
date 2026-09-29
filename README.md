@@ -34,6 +34,5 @@
 ├── requirements.txt               # точные версии библиотек окружения
 ├── quickstart_again.ipynb         # ноутбук Версии 1 (воспроизводит submission.csv на 0.79024)
 ├── solution_v2_advanced.ipynb     # ноутбук Версии 2 (воспроизводит submission_v2_advanced.csv на OOF 0.84112)
-├── solution_v2_advanced.md        # подробный технический отчет по Версии 2
 ├── submission.csv                 # официальный файл предсказаний дедлайна (LB: 0.79024)
 └── submission_v2_advanced.csv     # продвинутый файл предсказаний (OOF: 0.84112, 4909 уникальных скоров)
